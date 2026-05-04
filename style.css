@@ -872,7 +872,7 @@ img {
 
 .stage-card.open .stage-card-body {
     padding: 2rem;
-    max-height: 800px;
+    max-height: 2000px;
 }
 
 .stage-grid {
